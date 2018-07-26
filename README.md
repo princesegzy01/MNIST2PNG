@@ -34,13 +34,15 @@ To run this scripts, you will need to follow the command below **<input_folder>*
  
 This will iterate over the dataset extracted from Yann LeCun websites and converts them.
 
+
+### Result
 The converted files can be found in your ouput file supplied.
 
 Below are sample images after conversion
 
 <img src="https://raw.githubusercontent.com/princesegzy01/MNIST2PNG/master/output/training/4/1004.png" alt="drawing" width="200px"/>
 <img src="https://raw.githubusercontent.com/princesegzy01/MNIST2PNG/master/output/training/0/1000.png" alt="drawing" width="200px"/>
-<img src="https://raw.githubusercontent.com/princesegzy01/MNIST2PNG/master/output/training/9/10028.png" alt="drawing" width="200px"/>
+
 
 Thanks.
 
