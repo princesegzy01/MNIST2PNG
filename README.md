@@ -45,4 +45,4 @@ Below are sample images after conversion
 Thanks.
 
 
-contact me  @ pricesegzy01@gmail.com for more information
+contact me  @ princesegzy01@gmail.com for more information
